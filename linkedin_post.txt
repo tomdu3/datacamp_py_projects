@@ -1,0 +1,11 @@
+🎬 Day 6 of the 30 Days of Python challenge!
+
+Today, I went back in time to the 90s! Not with a time machine, but with Python and a cool Netflix dataset. My mission? To explore movies from that awesome decade.
+
+Using the power of 𝗽𝗮𝗻𝗱𝗮𝘀, I filtered thousands of titles to focus just on films released between 1990 and 2000. Then, I used 𝗺𝗮𝘁𝗽𝗹𝗼𝘁𝗹𝗶𝗯 to create a histogram and see how long these movies typically were.
+
+Turns out, the most common movie duration in the 90s was 94 minutes! I also found that there were 7 short action movies under 90 minutes. It's amazing what stories data can tell.
+
+Can't wait to uncover more hidden gems in other datasets! 🍿
+
+#python #codebar30DaysOfPython #datacamp #DataAnalysis #Pandas #Matplotlib #Netflix #PythonChallenge
